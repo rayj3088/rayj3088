@@ -1,6 +1,6 @@
 # rayj3088
 
-Independent inventor building open-source tools for energy-efficient AI, plus a robotics hand.
+
 
 ## Projects
 
